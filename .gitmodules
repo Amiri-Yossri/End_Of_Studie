@@ -4,3 +4,6 @@
 [submodule "Segment_level_semantic_search"]
 	path = Segment_level_semantic_search
 	url = https://github.com/Amiri-Yossri/Segment_level_semantic_search.git
+[submodule "Text_classification"]
+	path = Text_classification
+	url = https://github.com/Amiri-Yossri/Text_classification.git
