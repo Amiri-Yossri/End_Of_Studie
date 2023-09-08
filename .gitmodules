@@ -1,3 +1,6 @@
 [submodule "Recommendation_systems"]
 	path = Recommendation_systems
 	url = https://github.com/Amiri-Yossri/Recommendation_systems.git
+[submodule "Segment_level_semantic_search"]
+	path = Segment_level_semantic_search
+	url = https://github.com/Amiri-Yossri/Segment_level_semantic_search.git
