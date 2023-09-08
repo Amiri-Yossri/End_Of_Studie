@@ -7,3 +7,6 @@
 [submodule "Text_classification"]
 	path = Text_classification
 	url = https://github.com/Amiri-Yossri/Text_classification.git
+[submodule "Text_segmentation"]
+	path = Text_segmentation
+	url = https://github.com/Amiri-Yossri/Text_segmentation.git
